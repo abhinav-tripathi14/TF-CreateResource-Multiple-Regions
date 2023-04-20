@@ -1,5 +1,5 @@
 module "createresourcetworegions" {
-  source = "./ModuleExample"    
+  source = "./Module"    
 }
 terraform {
   required_providers {
